@@ -59,7 +59,7 @@ Os modelos podem ser amplamente classificados em duas categorias: os que usam in
 
 Os modelos de sequência incluem redes neurais convolucionais **(CNNs)**, redes neurais recorrentes **(RNNs)** e suas variações. Os tipos de modelos **n-gram** incluem regressão logística, multi layer perceptrons simples **MLPs** ou redes neurais totalmente conectadas, gradient boosted trees e support vector machines.
 
-Com base nas informações acima e nas métricas extraídas das amostras do dataset, levou-se em consideração a razão entre o **número de amostras (S)** e a **mediana de palavras por amostra (W)** como principal critério para a escolha do modelo.  Quando o valor dessa razão é pequeno (<1500), **MLPs** alimentandas por n-grams possuem um bom desempenho.
+Com base nas informações acima e nas métricas extraídas das amostras do dataset, levou-se em consideração a razão entre o **número de amostras (S)** e a **mediana de palavras por amostra (W)** como principal critério para a escolha do modelo.  Quando o valor dessa razão é pequeno (<1500), **MLPs** alimentandas por **n-grams** possuem um bom desempenho.
 
 Nesta análise, o valor **S/W** obtido no dataset **train_data** foi **** de 600 ( 6000 / 10) , por isso foi escolhido o modelo **MPLs**.
 
