@@ -61,7 +61,7 @@ Os modelos de sequência incluem redes neurais convolucionais **(CNNs)**, redes 
 
 Com base nas informações acima e nas métricas extraídas das amostras do dataset, levou-se em consideração a razão entre o **número de amostras (S)** e a **mediana de palavras por amostra (W)** como principal critério para a escolha do modelo.  Quando o valor dessa razão é pequeno (<1500), **MLPs** alimentandas por **n-grams** possuem um bom desempenho.
 
-Nesta análise, o valor **S/W** obtido no dataset **train_data** foi **** de 600 ( 6000 / 10) , por isso foi escolhido o modelo **MPLs**.
+Nesta análise, o valor **S/W** obtido no dataset **train_data** foi de 600 ( 6000 / 10) , por isso foi escolhido o modelo **MPLs**.
 
 ## Preparando os dados
 
