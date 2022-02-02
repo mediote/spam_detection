@@ -3,8 +3,8 @@
 
 | Nome  | Link  |
 |---|---|
-| Multi Layer Perceptron | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
-| Regressão Logística   |  [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
+| Multi Layer Perceptron | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/spam_detection/blob/main/mlp.ipynb)  |
+| Regressão Logística   |  [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/spam_detection/blob/main/regressao_logistica.ipynb) |
 
 
 
