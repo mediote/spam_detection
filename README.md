@@ -4,7 +4,7 @@
 | Nome  | Link  |
 |---|---|
 | Multi Layer Perceptron | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/GetTwitter.ipynb)  |
-| Regressçao Logística   |  [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
+| Regressão Logística   |  [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/twAnalytics/blob/main/BERTopic.ipynb) |
 
 
 
